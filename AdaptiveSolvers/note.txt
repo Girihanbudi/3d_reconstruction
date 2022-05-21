@@ -1,0 +1,6 @@
+https://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version13.72/
+
+PoissonRecon --in rabbit.ply --out rabbit.pr.ply --depth 10
+SSDRecon --in rabbit.ply --out rabbit.ssd.ply --depth 10 --density
+SurfaceTrimmer --in rabbit.ssd.ply --out rabbit.ssd.trimmed.ply --trim 7
+ChunkPly --in 1 rabbit.ssd.trimmed.ply --out rabbit.ssd.trimmed.chnks --width 4
