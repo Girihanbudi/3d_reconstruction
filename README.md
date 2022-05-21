@@ -9,6 +9,8 @@ You can check their link here :
 > Adaptive Solvers
 > https://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version13.74/
 
+I tweak a code in OSM-Bundler a litte bit to be able to work on python 3
+
 # How To Install
 1. Clone this repository
 2. Create virtual env in root project (or you can skip this)
@@ -38,6 +40,6 @@ python RunPSR.py --bundlerOutputPath="path\to\temporary\folder\osm-bundler-y777p
 # Example
 python RunPSR.py --bundlerOutputPath="path\to\temporary\folder\Temp\osm-bundler-y777pm_2"
 ```
-3D mesh will generated and you can open it with 3d software, I use meshlab to view the model
+3D mesh will generated and you can open it with 3d software, I use meshlab to view the model. You can combine by your self the 3D mesh result with other adaptive solver function as you need
 
 > Note : I use my camera phone to capture sample images in dataset folder, if you want to use your own camera. You can check cameras database in cameras.sqlite and see if your camera registered. If its not you can add it by your self. You can inspect your image exif metadata using exif pilot or whatever to check your camera model name.
