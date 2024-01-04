@@ -1,6 +1,7 @@
 # 3D Reconstruction Using SFM-PMVS-PSR
 
-![image](https://github.com/Girihanbudi/3d_reconstruction/assets/41041312/3724b9a6-bb6d-4516-8636-9793b359a9cc)
+![image](https://github.com/Girihanbudi/3d_reconstruction/assets/41041312/01257f1c-7afc-41f4-a322-af8e4009245b)
+
 ![image](https://github.com/Girihanbudi/3d_reconstruction/assets/41041312/67a40f27-2d21-4525-9953-0d5fd00ec5a5)
 
 
