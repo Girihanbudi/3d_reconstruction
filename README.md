@@ -1,5 +1,9 @@
 # 3D Reconstruction Using SFM-PMVS-PSR
 
+![image](https://github.com/Girihanbudi/3d_reconstruction/assets/41041312/3724b9a6-bb6d-4516-8636-9793b359a9cc)
+![image](https://github.com/Girihanbudi/3d_reconstruction/assets/41041312/67a40f27-2d21-4525-9953-0d5fd00ec5a5)
+
+
 This repository is to do 3D Reconstruction using OSM-Bundler(64 bit) todo SFM-MVS section and PoissonRecon from Adaptive Solvers to solve Surface Reconstruction
 
 You can check their link here :
