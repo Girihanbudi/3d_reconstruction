@@ -14,8 +14,6 @@ You can check their link here :
 > Adaptive Solvers
 > https://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version13.74/
 
-I tweak a code in OSM-Bundler a litte bit to be able to work on python 3
-
 # How To Install
 1. Clone this repository
 2. Create virtual env in root project (or you can skip this)
